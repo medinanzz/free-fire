@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Questrial&display=swap');
+
+* {
+    font-family: "Questrial", sans-serif;
+
+}
+
+.t {
+    font-size: 5rem;
+    text-align: center;
+}
+
+.t-2 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.p {
+    font-size: 40px;
+    margin: 5%;
+    text-align: center;    
+}
+
+.p-2 {
+   display: flex;
+   justify-content: start;
+   margin: 5%;
+   font-size: 40px;
+}
+
+.a {
+    color: black
+}
+
+.a-2 {
+    color: black;
+    margin: 1%;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 16px;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.a-2:hover {
+    background-color: whitesmoke;    
+}
