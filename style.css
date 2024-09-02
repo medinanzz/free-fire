@@ -43,5 +43,7 @@
 }
 
 .a-2:hover {
-    background-color: whitesmoke;    
+    background-color: black;
+    color: white;
+    transition: 0.7s ease-in-out; 
 }
